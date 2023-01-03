@@ -1,8 +1,7 @@
 ### Hi there 👋
-
-### My name is Nick 👨‍🦲
-
-### I’m currently learning Python as a Backender 🐍
+* My name is Nick 👨‍🦲
+* I’m currently learning <strong>Python</strong> as a Backender 🐍
+* 
 
 <!--
 **IlerioDef/IlerioDef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
