@@ -1,6 +1,6 @@
 ### Hi there 👋
 * My name is Nick 👨‍🦲
-* I’m currently under training as a <strong>Python</strong>🐍 Backend Developer
+
 
 
 <!--
